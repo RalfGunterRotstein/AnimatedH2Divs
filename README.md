@@ -6,4 +6,4 @@ How to use it:
 2. Define the **height of the screen** in which the animation must happen in the method **"screenAnimationPoint"**, in the class **AnimatedH2Divs.js**.
 3. Use transitions to define the **animation** you want to happen in the file **style.css**.
 
-You can see it working at [Animated H2 Divs – Ralf’s Portfolio](http://ralf.infinityfreeapp.com/animated-h2-divs/)
+You can see it working at [Animated H2 Divs – Ralf’s Portfolio](http://ralf.infinityfreeapp.com/animated-h2-divs/).
