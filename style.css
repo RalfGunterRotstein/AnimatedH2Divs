@@ -1,0 +1,7 @@
+.animated-h2-div {
+    color: transparent;
+    transition: 1s;
+}
+.animated-h2-div.already-animated {
+    color: black;
+}
